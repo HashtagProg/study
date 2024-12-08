@@ -17,12 +17,6 @@ def solution(n):
       sum1 += n
       n -= n
 
-  prį
-
-
-
-
-
   print(999)
   return answer
 
